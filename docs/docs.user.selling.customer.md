@@ -4,7 +4,7 @@
 	"_title_image": "img/customers.png"
 }
 ---
-You can either directly create your Customers via 
+You can either directly create your Customers via:
 
 > Selling > Customer
 
